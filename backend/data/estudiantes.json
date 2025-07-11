@@ -1,0 +1,314 @@
+{
+  "estudiantes": [
+    {
+      "id": "1",
+      "carnet": "20250001",
+      "nombre": "Peter",
+      "apellido": "Parker",
+      "grado": "1° Básico",
+      "estado": "Activo",
+      "createdAt": "2025-01-01T00:00:00.000Z",
+      "updatedAt": "2025-01-01T00:00:00.000Z"
+    },
+    {
+      "id": "2",
+      "carnet": "20250002",
+      "nombre": "Tony",
+      "apellido": "Stark",
+      "grado": "9° Grado",
+      "estado": "Activo",
+      "createdAt": "2025-01-01T00:00:00.000Z",
+      "updatedAt": "2025-01-01T00:00:00.000Z"
+    },
+    {
+      "id": "3",
+      "carnet": "20250003",
+      "nombre": "Steve",
+      "apellido": "Rogers",
+      "grado": "7° Grado",
+      "estado": "Activo",
+      "createdAt": "2025-01-01T00:00:00.000Z",
+      "updatedAt": "2025-01-01T00:00:00.000Z"
+    },
+    {
+      "id": "4",
+      "carnet": "20250004",
+      "nombre": "Natasha",
+      "apellido": "Romanoff",
+      "grado": "6° Grado",
+      "estado": "Inactivo",
+      "createdAt": "2025-01-01T00:00:00.000Z",
+      "updatedAt": "2025-01-01T00:00:00.000Z"
+    },
+    {
+      "id": "5",
+      "carnet": "20250005",
+      "nombre": "Bruce",
+      "apellido": "Banner",
+      "grado": "8° Grado",
+      "estado": "Activo",
+      "createdAt": "2025-01-01T00:00:00.000Z",
+      "updatedAt": "2025-01-01T00:00:00.000Z"
+    },
+    {
+      "id": "6",
+      "carnet": "20250006",
+      "nombre": "Wanda",
+      "apellido": "Maximoff",
+      "grado": "9° Grado",
+      "estado": "Activo",
+      "createdAt": "2025-01-01T00:00:00.000Z",
+      "updatedAt": "2025-01-01T00:00:00.000Z"
+    },
+    {
+      "id": "7",
+      "carnet": "20250007",
+      "nombre": "Clint",
+      "apellido": "Barton",
+      "grado": "5° Grado",
+      "estado": "Inactivo",
+      "createdAt": "2025-01-01T00:00:00.000Z",
+      "updatedAt": "2025-01-01T00:00:00.000Z"
+    },
+    {
+      "id": "8",
+      "carnet": "20250008",
+      "nombre": "Stephen",
+      "apellido": "Strange",
+      "grado": "4° Grado",
+      "estado": "Activo",
+      "createdAt": "2025-01-01T00:00:00.000Z",
+      "updatedAt": "2025-01-01T00:00:00.000Z"
+    },
+    {
+      "id": "9",
+      "carnet": "20250009",
+      "nombre": "Carol",
+      "apellido": "Danvers",
+      "grado": "3° Grado",
+      "estado": "Activo",
+      "createdAt": "2025-01-01T00:00:00.000Z",
+      "updatedAt": "2025-01-01T00:00:00.000Z"
+    },
+    {
+      "id": "10",
+      "carnet": "20250010",
+      "nombre": "Scott",
+      "apellido": "Lang",
+      "grado": "2° Grado",
+      "estado": "Activo",
+      "createdAt": "2025-01-01T00:00:00.000Z",
+      "updatedAt": "2025-01-01T00:00:00.000Z"
+    },
+    {
+      "id": "11",
+      "carnet": "20250011",
+      "nombre": "Hope",
+      "apellido": "Van Dyne",
+      "grado": "6° Grado",
+      "estado": "Inactivo",
+      "createdAt": "2025-01-01T00:00:00.000Z",
+      "updatedAt": "2025-01-01T00:00:00.000Z"
+    },
+    {
+      "id": "12",
+      "carnet": "20250012",
+      "nombre": "Nick",
+      "apellido": "Fury",
+      "grado": "7° Grado",
+      "estado": "Activo",
+      "createdAt": "2025-01-01T00:00:00.000Z",
+      "updatedAt": "2025-01-01T00:00:00.000Z"
+    },
+    {
+      "id": "13",
+      "carnet": "20250013",
+      "nombre": "Peggy",
+      "apellido": "Carter",
+      "grado": "8° Grado",
+      "estado": "Activo",
+      "createdAt": "2025-01-01T00:00:00.000Z",
+      "updatedAt": "2025-01-01T00:00:00.000Z"
+    },
+    {
+      "id": "14",
+      "carnet": "20250014",
+      "nombre": "T'Challa",
+      "apellido": "Wakanda",
+      "grado": "9° Grado",
+      "estado": "Activo",
+      "createdAt": "2025-01-01T00:00:00.000Z",
+      "updatedAt": "2025-01-01T00:00:00.000Z"
+    },
+    {
+      "id": "15",
+      "carnet": "20250015",
+      "nombre": "Shuri",
+      "apellido": "Wakanda",
+      "grado": "3° Grado",
+      "estado": "Activo",
+      "createdAt": "2025-01-01T00:00:00.000Z",
+      "updatedAt": "2025-01-01T00:00:00.000Z"
+    },
+    {
+      "id": "16",
+      "carnet": "20250016",
+      "nombre": "Gamora",
+      "apellido": "Zen Whoberi",
+      "grado": "9° Grado",
+      "estado": "Inactivo",
+      "createdAt": "2025-01-01T00:00:00.000Z",
+      "updatedAt": "2025-01-01T00:00:00.000Z"
+    },
+    {
+      "id": "17",
+      "carnet": "20250017",
+      "nombre": "Rocket",
+      "apellido": "Raccoon",
+      "grado": "5° Grado",
+      "estado": "Activo",
+      "createdAt": "2025-01-01T00:00:00.000Z",
+      "updatedAt": "2025-01-01T00:00:00.000Z"
+    },
+    {
+      "id": "18",
+      "carnet": "20250018",
+      "nombre": "Groot",
+      "apellido": "Flora Colossus",
+      "grado": "2° Grado",
+      "estado": "Activo",
+      "createdAt": "2025-01-01T00:00:00.000Z",
+      "updatedAt": "2025-01-01T00:00:00.000Z"
+    },
+    {
+      "id": "19",
+      "carnet": "20250019",
+      "nombre": "Drax",
+      "apellido": "The Destroyer",
+      "grado": "6° Grado",
+      "estado": "Inactivo",
+      "createdAt": "2025-01-01T00:00:00.000Z",
+      "updatedAt": "2025-01-01T00:00:00.000Z"
+    },
+    {
+      "id": "20",
+      "carnet": "20250020",
+      "nombre": "Mantis",
+      "apellido": "",
+      "grado": "4° Grado",
+      "estado": "Activo",
+      "createdAt": "2025-01-01T00:00:00.000Z",
+      "updatedAt": "2025-01-01T00:00:00.000Z"
+    },
+    {
+      "id": "21",
+      "carnet": "20250021",
+      "nombre": "Loki",
+      "apellido": "Laufeyson",
+      "grado": "9° Grado",
+      "estado": "Activo",
+      "createdAt": "2025-01-01T00:00:00.000Z",
+      "updatedAt": "2025-01-01T00:00:00.000Z"
+    },
+    {
+      "id": "22",
+      "carnet": "20250022",
+      "nombre": "Thor",
+      "apellido": "Odinson",
+      "grado": "8° Grado",
+      "estado": "Inactivo",
+      "createdAt": "2025-01-01T00:00:00.000Z",
+      "updatedAt": "2025-01-01T00:00:00.000Z"
+    },
+    {
+      "id": "23",
+      "carnet": "20250023",
+      "nombre": "Jane",
+      "apellido": "Foster",
+      "grado": "7° Grado",
+      "estado": "Activo",
+      "createdAt": "2025-01-01T00:00:00.000Z",
+      "updatedAt": "2025-01-01T00:00:00.000Z"
+    },
+    {
+      "id": "24",
+      "carnet": "20250024",
+      "nombre": "Kamala",
+      "apellido": "Khan",
+      "grado": "6° Grado",
+      "estado": "Activo",
+      "createdAt": "2025-01-01T00:00:00.000Z",
+      "updatedAt": "2025-01-01T00:00:00.000Z"
+    },
+    {
+      "id": "25",
+      "carnet": "20250025",
+      "nombre": "America",
+      "apellido": "Chavez",
+      "grado": "9° Grado",
+      "estado": "Activo",
+      "createdAt": "2025-01-01T00:00:00.000Z",
+      "updatedAt": "2025-01-01T00:00:00.000Z"
+    },
+    {
+      "id": "26",
+      "carnet": "20250026",
+      "nombre": "Kate",
+      "apellido": "Bishop",
+      "grado": "5° Grado",
+      "estado": "Inactivo",
+      "createdAt": "2025-01-01T00:00:00.000Z",
+      "updatedAt": "2025-01-01T00:00:00.000Z"
+    },
+    {
+      "id": "27",
+      "carnet": "20250027",
+      "nombre": "Monica",
+      "apellido": "Rambeau",
+      "grado": "8° Grado",
+      "estado": "Activo",
+      "createdAt": "2025-01-01T00:00:00.000Z",
+      "updatedAt": "2025-01-01T00:00:00.000Z"
+    },
+    {
+      "id": "28",
+      "carnet": "20250028",
+      "nombre": "Sam",
+      "apellido": "Wilson",
+      "grado": "9° Grado",
+      "estado": "Activo",
+      "createdAt": "2025-01-01T00:00:00.000Z",
+      "updatedAt": "2025-01-01T00:00:00.000Z"
+    },
+    {
+      "id": "29",
+      "carnet": "20250029",
+      "nombre": "Bucky",
+      "apellido": "Barnes",
+      "grado": "7° Grado",
+      "estado": "Inactivo",
+      "createdAt": "2025-01-01T00:00:00.000Z",
+      "updatedAt": "2025-01-01T00:00:00.000Z"
+    },
+    {
+      "id": "30",
+      "carnet": "20250030",
+      "nombre": "Vision",
+      "apellido": "",
+      "grado": "6° Grado",
+      "estado": "Activo",
+      "createdAt": "2025-01-01T00:00:00.000Z",
+      "updatedAt": "2025-01-01T00:00:00.000Z"
+    },
+    {
+      "id": "32",
+      "carnet": "20220025",
+      "nombre": "Katherine",
+      "apellido": "Ceron",
+      "grado": "5° Grado",
+      "estado": "Inactivo",
+      "createdAt": "2025-07-11T19:21:50.348Z",
+      "updatedAt": "2025-07-11T19:34:49.343Z"
+    }
+  ]
+}
