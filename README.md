@@ -138,7 +138,8 @@ https://drive.google.com/file/d/1Ppgc79Oudv4M2RaYf0X2O_jbM5xQv3ar/view?usp=drive
 
 🔗 **[Drive](FALTA EL VIDEO)**
 
-*El video demuestra todas las funcionalidades del sistema, incluyendo navegación, operaciones CRUD, responsividad y animaciones.*
+https://drive.google.com/file/d/1_ceoQWRQRwBCMgJVnXmpT4rnDyv0zDRE/view?usp=drive_link
+
 
 ---
 
