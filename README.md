@@ -113,19 +113,23 @@ npm run dev
 ## 📸 Capturas de pantalla o video
 
 ### 🏠 Página de Bienvenida:
-./screenshots/bienvenida.png](https://drive.google.com/file/d/1-YldZYwuEGhF_KegYjTgi27S6ZhZhbjQ/view?usp=drive_link
+https://drive.google.com/file/d/1-YldZYwuEGhF_KegYjTgi27S6ZhZhbjQ/view?usp=drive_link
+
 *Pantalla de inicio con diseño moderno y efectos visuales*
 
 ### 📊 Dashboard Principal:
-./screenshots/dashboard.png](https://drive.google.com/file/d/1-DYOhmG483ydh6NYhigeIuRDKCz5N7cs/view?usp=drive_link
+https://drive.google.com/file/d/1-DYOhmG483ydh6NYhigeIuRDKCz5N7cs/view?usp=drive_link
+
 *Panel administrativo con estadísticas y gestión de estudiantes*
 
 ### 📱 Vista Móvil:
-./screenshots/mobile.png](https://drive.google.com/file/d/1qbEHyrTKQ1O4pVtqaVq0cnlBKXZ0NqHq/view?usp=drive_link
+https://drive.google.com/file/d/1qbEHyrTKQ1O4pVtqaVq0cnlBKXZ0NqHq/view?usp=drive_link
+
 *Diseño responsivo optimizado para dispositivos móviles*
 
 ### ✏️ Modal de Edición:
-./screenshots/modal.png](https://drive.google.com/file/d/1Ppgc79Oudv4M2RaYf0X2O_jbM5xQv3ar/view?usp=drive_link
+https://drive.google.com/file/d/1Ppgc79Oudv4M2RaYf0X2O_jbM5xQv3ar/view?usp=drive_link
+
 *Formulario modal para crear y editar estudiantes*
 
 ---
